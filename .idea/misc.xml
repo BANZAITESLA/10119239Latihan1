@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable-anydpi/ic_waktu.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_angka_jamkerja.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_checkin.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_digiteam.xml" value="0.1" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_gray100.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green100.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green200.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green300.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green500.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green600.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green700.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_green800.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_icon_jamkerja.xml" value="0.184" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_jamkerja.xml" value="0.1" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/drawable/view_radius8dp.xml" value="0.1" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/font-v26/roboto.xml" value="0.1" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/font/font.xml" value="0.20572916666666666" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/font/roboto.xml" value="0.20572916666666666" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/layout/activity_main.xml" value="0.16168478260869565" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/layout/style.xml" value="0.1" />
+        <entry key="..\:/GoogleDrive/Document/SMT6/Aplikasi Komputasi Bergerak/Project/10119239Latihan1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.184" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HiddenTitleTheme" parent="Theme.10119239Latihan1">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
+
+<!--
+    Tanggal : Selasa, 19 April 2022
+    NIM     : 10119239
+    Nama    : Dea Inesia Sri Utami
+    Kelas   : IF6
+-->

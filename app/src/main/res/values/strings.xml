@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">10119239Latihan1</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digi_desc">Digital Together Everyone Achieve More\nJabar Digital Service</string>
+    <string name="nama_profile">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="desc_profile">UI Designer</string>
+    <string name="title_jamkerja">Jam Kerja Bulan Ini</string>
+    <string name="jumlah_jamkerja">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="angka_jamkerja">130.53 JAM</string>
+    <string name="batas_jamkerja">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="title_laporan">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="menu_izin">Izin</string>
+    <string name="menu_kehadiran">Kehadiran</string>
+    <string name="menu_laporan">Laporan</string>
+    <string name="menu_agenda">Agenda</string>
+    <string name="menu_booking">Booking</string>
+    <string name="menu_wiki">Wiki</string>
+</resources>
+
+<!--
+    Tanggal : Selasa, 19 April 2022
+    NIM     : 10119239
+    Nama    : Dea Inesia Sri Utami
+    Kelas   : IF6
+-->
